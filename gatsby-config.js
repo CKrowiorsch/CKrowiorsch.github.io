@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `CKrowiorsch Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Christian Krowiorsch`,
+      summary: `aus Berlin. Ich interessiere mich für alles nerdige und kochen`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://ckrowiorsch.github.io`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ckrowiorsch`,
     },
   },
   plugins: [
